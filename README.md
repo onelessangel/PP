@@ -1,2 +1,1 @@
-# PP
-Programming Paradigms
+# PP - Programming Paradigms
